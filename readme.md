@@ -1,0 +1,4 @@
+SQL
+
+SELECT COUNT(*)
+FROM buyer;
